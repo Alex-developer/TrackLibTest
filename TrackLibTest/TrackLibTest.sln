@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackLibTest", "TrackLibTest.csproj", "{57026AA3-6E3C-4626-BC74-6430913E4643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMf.CommonExtensions", "..\..\TrackLib.NetMF\NETMF.CommonExtensions\NetMf.CommonExtensions\NetMf.CommonExtensions.csproj", "{58F72289-F396-4CCA-8120-B7179C05FF99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackLib.NetMF", "..\..\TrackLib.NetMF\TrackLib.NetMF\TrackLib.NetMF.csproj", "{096502CF-FEB5-4FF1-BA2D-3D929DAE3FE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57026AA3-6E3C-4626-BC74-6430913E4643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57026AA3-6E3C-4626-BC74-6430913E4643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57026AA3-6E3C-4626-BC74-6430913E4643}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{57026AA3-6E3C-4626-BC74-6430913E4643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57026AA3-6E3C-4626-BC74-6430913E4643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57026AA3-6E3C-4626-BC74-6430913E4643}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{58F72289-F396-4CCA-8120-B7179C05FF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F72289-F396-4CCA-8120-B7179C05FF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F72289-F396-4CCA-8120-B7179C05FF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F72289-F396-4CCA-8120-B7179C05FF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096502CF-FEB5-4FF1-BA2D-3D929DAE3FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096502CF-FEB5-4FF1-BA2D-3D929DAE3FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096502CF-FEB5-4FF1-BA2D-3D929DAE3FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096502CF-FEB5-4FF1-BA2D-3D929DAE3FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
